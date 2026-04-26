@@ -82,3 +82,13 @@ node concertpostergenerator.js "neon punk show poster" --token "$NETA_TOKEN"
 The `--token` flag is the only way the script accepts your token.
 
 This skill requires a Neta API token (free trial available at https://www.neta.art/open/).
+
+## Example Output
+
+```bash
+node concertpostergenerator.js "bold concert poster design, dramatic stage lighting, vibrant typography composition, high contrast cinematic mood, music event flyer aesthetic, eye-catching gig poster art"
+```
+
+![Example output](https://oss.talesofai.cn/picture/a7b5d6fb-75db-47f4-8561-5006b0f83977.webp)
+
+> Prompt: *"bold concert poster design, dramatic stage lighting, vibrant typography composition, high contrast cinematic mood, music event flyer aesthetic, eye-catching gig poster art"*
